@@ -15,7 +15,7 @@
       "imperial": "6 - 13",
       "metric": "3 - 6"
     },
-    "url": "1.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg"
   },
   {
     "bred_for": "Coursing and hunting",
@@ -34,7 +34,7 @@
       "imperial": "50 - 60",
       "metric": "23 - 27"
     },
-    "url": "2.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/2.jpg"
   },
   {
     "bred_for": "A wild pack animal",
@@ -51,7 +51,7 @@
       "imperial": "44 - 66",
       "metric": "20 - 30"
     },
-    "url": "3.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/3.jpg"
   },
   {
     "bred_for": "Badger, otter hunting",
@@ -69,7 +69,7 @@
       "imperial": "40 - 65",
       "metric": "18 - 29"
     },
-    "url": "4.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/4.jpg"
   },
   {
     "bred_for": "Sheep guarding",
@@ -87,7 +87,7 @@
       "imperial": "90 - 120",
       "metric": "41 - 54"
     },
-    "url": "5.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/5.jpg"
   },
   {
     "bred_for": "Hunting bears",
@@ -104,7 +104,7 @@
       "imperial": "65 - 115",
       "metric": "29 - 52"
     },
-    "url": "6.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/6.jpg"
   },
   {
     "bred_for": "Guarding",
@@ -123,7 +123,7 @@
       "imperial": "55 - 90",
       "metric": "25 - 41"
     },
-    "url": "7.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/7.jpg"
   },
   {
     "bred_for": "Sled pulling",
@@ -140,7 +140,7 @@
       "imperial": "38 - 50",
       "metric": "17 - 23"
     },
-    "url": "8.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/8.jpg"
   },
   {
     "bred_for": "Hauling heavy freight, Sled pulling",
@@ -157,7 +157,7 @@
       "imperial": "65 - 100",
       "metric": "29 - 45"
     },
-    "url": "9.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/9.jpg"
   },
   {
     "breed_group": "Working",
@@ -173,7 +173,7 @@
       "imperial": "60 - 120",
       "metric": "27 - 54"
     },
-    "url": "10.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/10.jpg"
   },
   {
     "bred_for": "Family companion dog",
@@ -191,7 +191,7 @@
       "imperial": "30 - 150",
       "metric": "14 - 68"
     },
-    "url": "12.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/12.jpg"
   },
   {
     "bred_for": "Circus performer",
@@ -209,7 +209,7 @@
       "imperial": "20 - 40",
       "metric": "9 - 18"
     },
-    "url": "12.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/12.jpg"
   },
   {
     "bred_for": "Companionship",
@@ -226,7 +226,7 @@
       "imperial": "7 - 10",
       "metric": "3 - 5"
     },
-    "url": "13.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/13.jpg"
   },
   {
     "bred_for": "Fox hunting, scent hound",
@@ -244,7 +244,7 @@
       "imperial": "65 - 75",
       "metric": "29 - 34"
     },
-    "url": "14.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/14.jpg"
   },
   {
     "bred_for": "Fighting",
@@ -262,7 +262,7 @@
       "imperial": "30 - 60",
       "metric": "14 - 27"
     },
-    "url": "15.png"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/15.png"
   },
   {
     "bred_for": "",
@@ -280,7 +280,7 @@
       "imperial": "50 - 60",
       "metric": "23 - 27"
     },
-    "url": "16.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/16.jpg"
   },
   {
     "bred_for": "Bird flushing and retrieving",
@@ -298,7 +298,7 @@
       "imperial": "25 - 45",
       "metric": "11 - 20"
     },
-    "url": "17.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/17.jpg"
   },
   {
     "bred_for": "Livestock herding",
@@ -315,7 +315,7 @@
       "imperial": "80 - 150",
       "metric": "36 - 68"
     },
-    "url": "18.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/18.jpg"
   },
   {
     "bred_for": "Herding livestock, pulling carts, and guarding the farm",
@@ -331,7 +331,7 @@
       "imperial": "48 - 55",
       "metric": "22 - 25"
     },
-    "url": "19.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/19.jpg"
   },
   {
     "bred_for": "Cattle herding, herding trials",
@@ -349,7 +349,7 @@
       "imperial": "44 - 62",
       "metric": "20 - 28"
     },
-    "url": "21.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/21.jpg"
   },
   {
     "bred_for": "Farm dog, Cattle herding",
@@ -367,7 +367,7 @@
       "imperial": "31 - 46",
       "metric": "14 - 21"
     },
-    "url": "22.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/22.jpg"
   },
   {
     "bred_for": "Sheep herding",
@@ -385,7 +385,7 @@
       "imperial": "35 - 65",
       "metric": "16 - 29"
     },
-    "url": "23.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/23.jpg"
   },
   {
     "bred_for": "Cattle herdering, hunting snakes and rodents",
@@ -403,7 +403,7 @@
       "imperial": "14 - 16",
       "metric": "6 - 7"
     },
-    "url": "24.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/24.jpg"
   },
   {
     "bred_for": "Livestock guardian, hunting",
@@ -420,7 +420,7 @@
       "imperial": "33 - 55",
       "metric": "15 - 25"
     },
-    "url": "25.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/25.jpg"
   },
   {
     "bred_for": "Hunting water game",
@@ -436,7 +436,7 @@
       "imperial": "40 - 65",
       "metric": "18 - 29"
     },
-    "url": "26.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/26.jpg"
   },
   {
     "bred_for": "Hunting",
@@ -453,7 +453,7 @@
       "imperial": "22 - 24",
       "metric": "10 - 11"
     },
-    "url": "28.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/28.jpg"
   },
   {
     "bred_for": "Hunting on foot.",
@@ -470,7 +470,7 @@
       "imperial": "35 - 40",
       "metric": "16 - 18"
     },
-    "url": "29.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/29.jpg"
   },
   {
     "bred_for": "Hunting by scent",
@@ -487,7 +487,7 @@
       "imperial": "50 - 65",
       "metric": "23 - 29"
     },
-    "url": "30.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/30.jpg"
   },
   {
     "bred_for": "Rabbit, hare hunting",
@@ -504,7 +504,7 @@
       "imperial": "20 - 35",
       "metric": "9 - 16"
     },
-    "url": "31.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/31.jpg"
   },
   {
     "bred_for": "Sheep herding",
@@ -521,7 +521,7 @@
       "imperial": "45 - 55",
       "metric": "20 - 25"
     },
-    "url": "32.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/32.jpg"
   },
   {
     "bred_for": "Boar herding, hunting, guarding",
@@ -538,7 +538,7 @@
       "imperial": "80 - 110",
       "metric": "36 - 50"
     },
-    "url": "33.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/33.jpg"
   },
   {
     "bred_for": "Killing rat, badger, other vermin",
@@ -555,7 +555,7 @@
       "imperial": "17 - 23",
       "metric": "8 - 10"
     },
-    "url": "34.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/34.jpg"
   },
   {
     "bred_for": "Stock herding",
@@ -572,7 +572,7 @@
       "imperial": "40 - 80",
       "metric": "18 - 36"
     },
-    "url": "36.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/36.jpg"
   },
   {
     "bred_for": "Guarding, Drafting, Police work.",
@@ -589,7 +589,7 @@
       "imperial": "40 - 65",
       "metric": "18 - 29"
     },
-    "url": "38.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/38.jpg"
   },
   {
     "bred_for": "Draft work",
@@ -606,7 +606,7 @@
       "imperial": "65 - 120",
       "metric": "29 - 54"
     },
-    "url": "41.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/41.jpg"
   },
   {
     "bred_for": "Companion",
@@ -623,7 +623,7 @@
       "imperial": "10 - 18",
       "metric": "5 - 8"
     },
-    "url": "42.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/42.jpg"
   },
   {
     "bred_for": "Hunting raccoons, night hunting",
@@ -640,7 +640,7 @@
       "imperial": "65 - 100",
       "metric": "29 - 45"
     },
-    "url": "43.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/43.jpg"
   },
   {
     "bred_for": "Trailing",
@@ -657,7 +657,7 @@
       "imperial": "80 - 110",
       "metric": "36 - 50"
     },
-    "url": "45.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/45.jpg"
   },
   {
     "bred_for": "Hunting with a superior sense of smell.",
@@ -674,7 +674,7 @@
       "imperial": "45 - 80",
       "metric": "20 - 36"
     },
-    "url": "47.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/47.jpg"
   },
   {
     "bred_for": "Guarding the homestead, farm work.",
@@ -691,7 +691,7 @@
       "imperial": "110 - 200",
       "metric": "50 - 91"
     },
-    "url": "48.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/48.jpg"
   },
   {
     "bred_for": "Sheep herder",
@@ -708,7 +708,7 @@
       "imperial": "30 - 45",
       "metric": "14 - 20"
     },
-    "url": "50.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/50.jpg"
   },
   {
     "bred_for": "Fox bolting, ratting",
@@ -725,7 +725,7 @@
       "imperial": "11.5 - 15.5",
       "metric": "5 - 7"
     },
-    "url": "51.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/51.jpg"
   },
   {
     "bred_for": "Ratting, Companionship",
@@ -742,7 +742,7 @@
       "imperial": "10 - 25",
       "metric": "5 - 11"
     },
-    "url": "53.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/53.jpg"
   },
   {
     "bred_for": "Cattle herding",
@@ -759,7 +759,7 @@
       "imperial": "70 - 110",
       "metric": "32 - 50"
     },
-    "url": "54.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/54.jpg"
   },
   {
     "bred_for": "Bull-baiting, guardian",
@@ -776,7 +776,7 @@
       "imperial": "50 - 70",
       "metric": "23 - 32"
     },
-    "url": "55.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/55.jpg"
   },
   {
     "bred_for": "Turkey retrieving",
@@ -793,7 +793,7 @@
       "imperial": "25 - 40",
       "metric": "11 - 18"
     },
-    "url": "56.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/56.jpg"
   },
   {
     "bred_for": "Versatile gun dog",
@@ -810,7 +810,7 @@
       "imperial": "55 - 88",
       "metric": "25 - 40"
     },
-    "url": "57.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/57.jpg"
   },
   {
     "bred_for": "Herding, guarding sheep",
@@ -827,7 +827,7 @@
       "imperial": "70 - 90",
       "metric": "32 - 41"
     },
-    "url": "58.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/58.jpg"
   },
   {
     "bred_for": "Pointing, retrieving",
@@ -844,7 +844,7 @@
       "imperial": "30 - 45",
       "metric": "14 - 20"
     },
-    "url": "59.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/59.jpg"
   },
   {
     "bred_for": "Bull baiting, Fighting",
@@ -861,7 +861,7 @@
       "imperial": "50 - 70",
       "metric": "23 - 32"
     },
-    "url": "61.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/61.jpg"
   },
   {
     "bred_for": "An elegant man's fashion statement",
@@ -877,7 +877,7 @@
       "imperial": "25 - 33",
       "metric": "11 - 15"
     },
-    "url": "62.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/62.jpg"
   },
   {
     "bred_for": "Estate guardian",
@@ -894,7 +894,7 @@
       "imperial": "100 - 130",
       "metric": "45 - 59"
     },
-    "url": "64.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/64.jpg"
   },
   {
     "bred_for": "Bolting of otter, foxes, other vermin",
@@ -911,7 +911,7 @@
       "imperial": "13 - 14",
       "metric": "6 - 6"
     },
-    "url": "65.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/65.jpg"
   },
   {
     "bred_for": "Companion, guard dog, and hunter",
@@ -928,7 +928,7 @@
       "imperial": "88 - 120",
       "metric": "40 - 54"
     },
-    "url": "67.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/67.jpg"
   },
   {
     "bred_for": "Cattle droving",
@@ -945,7 +945,7 @@
       "imperial": "25 - 38",
       "metric": "11 - 17"
     },
-    "url": "68.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/68.jpg"
   },
   {
     "bred_for": "Driving livestock",
@@ -962,7 +962,7 @@
       "imperial": "50 - 95",
       "metric": "23 - 43"
     },
-    "url": "69.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/69.jpg"
   },
   {
     "bred_for": "Guard dogs, defending sheep from predators, mainly wolves, jackals and bears",
@@ -979,7 +979,7 @@
       "imperial": "80 - 100",
       "metric": "36 - 45"
     },
-    "url": "70.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/70.jpg"
   },
   {
     "bred_for": "Flushing small birds, companion",
@@ -996,7 +996,7 @@
       "imperial": "13 - 18",
       "metric": "6 - 8"
     },
-    "url": "71.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/71.jpg"
   },
   {
     "bred_for": "Water Retriever",
@@ -1013,7 +1013,7 @@
       "imperial": "55 - 80",
       "metric": "25 - 36"
     },
-    "url": "76.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/76.jpg"
   },
   {
     "bred_for": "Ratting, lapdog, curio",
@@ -1030,7 +1030,7 @@
       "imperial": "10 - 13",
       "metric": "5 - 6"
     },
-    "url": "78.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/78.jpg"
   },
   {
     "bred_for": "Fighting",
@@ -1047,7 +1047,7 @@
       "imperial": "45 - 60",
       "metric": "20 - 27"
     },
-    "url": "79.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/79.jpg"
   },
   {
     "bred_for": "Sled pulling",
@@ -1064,7 +1064,7 @@
       "imperial": "50 - 90",
       "metric": "23 - 41"
     },
-    "url": "80.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/80.jpg"
   },
   {
     "bred_for": "Guardian, cart pulling, hunting",
@@ -1081,7 +1081,7 @@
       "imperial": "40 - 70",
       "metric": "18 - 32"
     },
-    "url": "81.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/81.jpg"
   },
   {
     "bred_for": "Bird flushing, retrieving",
@@ -1098,7 +1098,7 @@
       "imperial": "55 - 85",
       "metric": "25 - 39"
     },
-    "url": "84.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/84.jpg"
   },
   {
     "bred_for": "Bird flushing, retrieving",
@@ -1115,7 +1115,7 @@
       "imperial": "20 - 30",
       "metric": "9 - 14"
     },
-    "url": "86.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/86.jpg"
   },
   {
     "bred_for": "Hunting the American woodcock",
@@ -1132,7 +1132,7 @@
       "imperial": "20 - 30",
       "metric": "9 - 14"
     },
-    "url": "87.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/87.jpg"
   },
   {
     "bred_for": "Accompanying ladies on long sea voyages, ratters onboard ship.",
@@ -1149,7 +1149,7 @@
       "imperial": "9 - 15",
       "metric": "4 - 7"
     },
-    "url": "89.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/89.jpg"
   },
   {
     "bred_for": "Carriage dog - trot alongside carriages to protect the occupants from banditry or other interference",
@@ -1166,7 +1166,7 @@
       "imperial": "50 - 55",
       "metric": "23 - 25"
     },
-    "url": "92.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/92.jpg"
   },
   {
     "bred_for": "Guardian",
@@ -1183,7 +1183,7 @@
       "imperial": "66 - 88",
       "metric": "30 - 40"
     },
-    "url": "94.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/94.jpg"
   },
   {
     "bred_for": "Big-game hunting",
@@ -1200,7 +1200,7 @@
       "imperial": "80 - 100",
       "metric": "36 - 45"
     },
-    "url": "95.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/95.jpg"
   },
   {
     "bred_for": "Farms, watchdog, guard duty",
@@ -1216,7 +1216,7 @@
       "imperial": "50 - 70",
       "metric": "23 - 32"
     },
-    "url": "98.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/98.jpg"
   },
   {
     "bred_for": "Bird setting, retrieving",
@@ -1233,7 +1233,7 @@
       "imperial": "45 - 80",
       "metric": "20 - 36"
     },
-    "url": "101.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/101.jpg"
   },
   {
     "bred_for": "Herding & guarding livestock, farm watch dog",
@@ -1250,7 +1250,7 @@
       "imperial": "44 - 66",
       "metric": "20 - 30"
     },
-    "url": "102.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/102.jpg"
   },
   {
     "bred_for": "Bird flushing, retrieving",
@@ -1267,7 +1267,7 @@
       "imperial": "35 - 50",
       "metric": "16 - 23"
     },
-    "url": "103.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/103.jpg"
   },
   {
     "bred_for": "Companion of kings",
@@ -1284,7 +1284,7 @@
       "imperial": "8 - 14",
       "metric": "4 - 6"
     },
-    "url": "104.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/104.jpg"
   },
   {
     "bred_for": "Rat-baiting",
@@ -1300,7 +1300,7 @@
       "imperial": "6 - 8",
       "metric": "3 - 4"
     },
-    "url": "105.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/105.jpg"
   },
   {
     "bred_for": "Companionship",
@@ -1317,7 +1317,7 @@
       "imperial": "40 - 70",
       "metric": "18 - 32"
     },
-    "url": "107.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/107.jpg"
   },
   {
     "bred_for": "Bird flushing, retrieving",
@@ -1334,7 +1334,7 @@
       "imperial": "35 - 50",
       "metric": "16 - 23"
     },
-    "url": "108.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/108.jpg"
   },
   {
     "bred_for": "Herding reindeer",
@@ -1351,7 +1351,7 @@
       "imperial": "33 - 53",
       "metric": "15 - 24"
     },
-    "url": "110.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/110.jpg"
   },
   {
     "bred_for": "Hunting birds, small mammals",
@@ -1368,7 +1368,7 @@
       "imperial": "23 - 28",
       "metric": "10 - 13"
     },
-    "url": "111.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/111.jpg"
   },
   {
     "bred_for": "Lapdog",
@@ -1385,7 +1385,7 @@
       "imperial": "28",
       "metric": "13"
     },
-    "url": "113.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/113.jpg"
   },
   {
     "bred_for": "Watchdog, Hunting vermin on the farm.",
@@ -1402,7 +1402,7 @@
       "imperial": "25 - 45",
       "metric": "11 - 20"
     },
-    "url": "114.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/114.jpg"
   },
   {
     "bred_for": "Herding, Guard dog",
@@ -1419,7 +1419,7 @@
       "imperial": "50 - 90",
       "metric": "23 - 41"
     },
-    "url": "115.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/115.jpg"
   },
   {
     "bred_for": "General hunting",
@@ -1436,7 +1436,7 @@
       "imperial": "45 - 70",
       "metric": "20 - 32"
     },
-    "url": "116.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/116.jpg"
   },
   {
     "bred_for": "Herding, guarding",
@@ -1453,7 +1453,7 @@
       "imperial": "65 - 90",
       "metric": "29 - 41"
     },
-    "url": "119.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/119.jpg"
   },
   {
     "bred_for": "Rid the home and farm of vermin, and hunt badger and fox",
@@ -1470,7 +1470,7 @@
       "imperial": "32 - 40",
       "metric": "15 - 18"
     },
-    "url": "120.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/120.jpg"
   },
   {
     "bred_for": "Retrieving",
@@ -1487,7 +1487,7 @@
       "imperial": "55 - 75",
       "metric": "25 - 34"
     },
-    "url": "121.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/121.jpg"
   },
   {
     "bred_for": "Find and point gamebirds",
@@ -1504,7 +1504,7 @@
       "imperial": "45 - 80",
       "metric": "20 - 36"
     },
-    "url": "123.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/123.jpg"
   },
   {
     "bred_for": "Hunting & holding boars, Guardian",
@@ -1521,7 +1521,7 @@
       "imperial": "110 - 190",
       "metric": "50 - 86"
     },
-    "url": "124.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/124.jpg"
   },
   {
     "bred_for": "Sheep guardian",
@@ -1538,7 +1538,7 @@
       "imperial": "85 - 115",
       "metric": "39 - 52"
     },
-    "url": "125.png"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/125.png"
   },
   {
     "bred_for": "Coursing hares",
@@ -1555,7 +1555,7 @@
       "imperial": "50 - 70",
       "metric": "23 - 32"
     },
-    "url": "127.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/127.jpg"
   },
   {
     "bred_for": "Hunt and kill vermin in stables",
@@ -1571,7 +1571,7 @@
       "imperial": "12",
       "metric": "5"
     },
-    "url": "128.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/128.jpg"
   },
   {
     "bred_for": "Hunting hares by trailing them",
@@ -1588,7 +1588,7 @@
       "imperial": "40 - 60",
       "metric": "18 - 27"
     },
-    "url": "129.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/129.jpg"
   },
   {
     "bred_for": "Companionship",
@@ -1605,7 +1605,7 @@
       "imperial": "7 - 13",
       "metric": "3 - 6"
     },
-    "url": "130.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/130.jpg"
   },
   {
     "bred_for": "Bird setting, retrieving",
@@ -1622,7 +1622,7 @@
       "imperial": "35 - 70",
       "metric": "16 - 32"
     },
-    "url": "134.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/134.jpg"
   },
   {
     "breed_group": "Terrier",
@@ -1638,7 +1638,7 @@
       "imperial": "25 - 27",
       "metric": "11 - 12"
     },
-    "url": "135.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/135.jpg"
   },
   {
     "bred_for": "Coursing wolves, elk",
@@ -1655,7 +1655,7 @@
       "imperial": "105 - 180",
       "metric": "48 - 82"
     },
-    "url": "137.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/137.jpg"
   },
   {
     "bred_for": "Lapdog",
@@ -1672,7 +1672,7 @@
       "imperial": "7 - 15",
       "metric": "3 - 7"
     },
-    "url": "138.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/138.jpg"
   },
   {
     "bred_for": "Lapdog",
@@ -1689,7 +1689,7 @@
       "imperial": "4 - 9",
       "metric": "2 - 4"
     },
-    "url": "140.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/140.jpg"
   },
   {
     "bred_for": "Companion",
@@ -1705,7 +1705,7 @@
       "imperial": "15 - 19",
       "metric": "7 - 9"
     },
-    "url": "141.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/141.jpg"
   },
   {
     "bred_for": "Barge watchdog",
@@ -1722,7 +1722,7 @@
       "imperial": "35 - 45",
       "metric": "16 - 20"
     },
-    "url": "142.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/142.jpg"
   },
   {
     "bred_for": "Sheep guardian",
@@ -1739,7 +1739,7 @@
       "imperial": "80 - 100",
       "metric": "36 - 45"
     },
-    "url": "144.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/144.jpg"
   },
   {
     "bred_for": "Luring ducks into traps - \"tolling\"",
@@ -1756,7 +1756,7 @@
       "imperial": "20 - 30",
       "metric": "9 - 14"
     },
-    "url": "145.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/145.jpg"
   },
   {
     "bred_for": "Guardian, hunting large game",
@@ -1773,7 +1773,7 @@
       "imperial": "70 - 115",
       "metric": "32 - 52"
     },
-    "url": "147.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/147.jpg"
   },
   {
     "bred_for": "Water retrieving",
@@ -1790,7 +1790,7 @@
       "imperial": "55 - 80",
       "metric": "25 - 36"
     },
-    "url": "149.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/149.jpg"
   },
   {
     "bred_for": "Water retrieval dog in the marshes of Romagna",
@@ -1807,7 +1807,7 @@
       "imperial": "24 - 35",
       "metric": "11 - 16"
     },
-    "url": "151.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/151.jpg"
   },
   {
     "bred_for": "Cattle herding, Ratting, Driving cattle to market.",
@@ -1823,7 +1823,7 @@
       "imperial": "6 - 13",
       "metric": "3 - 6"
     },
-    "url": "153.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/153.jpg"
   },
   {
     "bred_for": "Guardian, appearance.",
@@ -1840,7 +1840,7 @@
       "imperial": "120 - 170",
       "metric": "54 - 77"
     },
-    "url": "155.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/155.jpg"
   },
   {
     "bred_for": "Guarding inside the home, companion",
@@ -1857,7 +1857,7 @@
       "imperial": "12 - 18",
       "metric": "5 - 8"
     },
-    "url": "156.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/156.jpg"
   },
   {
     "bred_for": "Lapdog",
@@ -1874,7 +1874,7 @@
       "imperial": "4 - 7",
       "metric": "2 - 3"
     },
-    "url": "161.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/161.jpg"
   },
   {
     "breed_group": "Herding",
@@ -1890,7 +1890,7 @@
       "imperial": "20 - 40",
       "metric": "9 - 18"
     },
-    "url": "165.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/165.jpg"
   },
   {
     "bred_for": "Small vermin hunting",
@@ -1907,7 +1907,7 @@
       "imperial": "8 - 11",
       "metric": "4 - 5"
     },
-    "url": "167.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/167.jpg"
   },
   {
     "bred_for": "Ratting",
@@ -1924,7 +1924,7 @@
       "imperial": "11 - 20",
       "metric": "5 - 9"
     },
-    "url": "168.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/168.jpg"
   },
   {
     "bred_for": "All purpose water dog, fishing aid",
@@ -1941,7 +1941,7 @@
       "imperial": "100 - 150",
       "metric": "45 - 68"
     },
-    "url": "171.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/171.jpg"
   },
   {
     "bred_for": "Ratting, fox bolting",
@@ -1958,7 +1958,7 @@
       "imperial": "11 - 12",
       "metric": "5 - 5"
     },
-    "url": "172.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/172.jpg"
   },
   {
     "bred_for": "Ratting, fox bolting",
@@ -1975,7 +1975,7 @@
       "imperial": "11 - 12",
       "metric": "5 - 5"
     },
-    "url": "176.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/176.jpg"
   },
   {
     "breed_group": "Sporting",
@@ -1991,7 +1991,7 @@
       "imperial": "35 - 50",
       "metric": "16 - 23"
     },
-    "url": "177.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/177.jpg"
   },
   {
     "bred_for": "Driving sheep, cattle",
@@ -2008,7 +2008,7 @@
       "imperial": "60 - 100",
       "metric": "27 - 45"
     },
-    "url": "178.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/178.jpg"
   },
   {
     "height": {
@@ -2023,7 +2023,7 @@
       "imperial": "65 – 85",
       "metric": "NaN"
     },
-    "url": "179.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/179.jpg"
   },
   {
     "bred_for": "Lapdog",
@@ -2040,7 +2040,7 @@
       "imperial": "3 - 12",
       "metric": "1 - 5"
     },
-    "url": "181.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/181.jpg"
   },
   {
     "bred_for": "Lapdog",
@@ -2057,7 +2057,7 @@
       "imperial": "14",
       "metric": "6"
     },
-    "url": "183.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/183.jpg"
   },
   {
     "bred_for": "Driving stock to market in northern Wales",
@@ -2074,7 +2074,7 @@
       "imperial": "25 - 30",
       "metric": "11 - 14"
     },
-    "url": "184.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/184.jpg"
   },
   {
     "breed_group": "Working",
@@ -2090,7 +2090,7 @@
       "imperial": "88 - 110",
       "metric": "40 - 50"
     },
-    "url": "185.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/185.jpg"
   },
   {
     "bred_for": "Hunting rabbits",
@@ -2107,7 +2107,7 @@
       "imperial": "40 - 60",
       "metric": "18 - 27"
     },
-    "url": "188.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/188.jpg"
   },
   {
     "bred_for": "Hunting big-game like Boar.",
@@ -2124,7 +2124,7 @@
       "imperial": "40 - 60",
       "metric": "18 - 27"
     },
-    "url": "189.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/189.jpg"
   },
   {
     "bred_for": "Companion",
@@ -2141,7 +2141,7 @@
       "imperial": "3 - 7",
       "metric": "1 - 3"
     },
-    "url": "193.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/193.jpg"
   },
   {
     "height": {
@@ -2155,7 +2155,7 @@
       "imperial": "15 - 17",
       "metric": "7 - 8"
     },
-    "url": "196.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/196.jpg"
   },
   {
     "height": {
@@ -2169,7 +2169,7 @@
       "imperial": "6 - 9",
       "metric": "3 - 4"
     },
-    "url": "197.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/197.jpg"
   },
   {
     "bred_for": "Lapdog",
@@ -2186,7 +2186,7 @@
       "imperial": "14 - 18",
       "metric": "6 - 8"
     },
-    "url": "201.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/201.jpg"
   },
   {
     "bred_for": "Herding",
@@ -2203,7 +2203,7 @@
       "imperial": "25 - 35",
       "metric": "11 - 16"
     },
-    "url": "204.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/204.jpg"
   },
   {
     "breed_group": "Herding",
@@ -2219,7 +2219,7 @@
       "imperial": "18 - 33",
       "metric": "8 - 15"
     },
-    "url": "205.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/205.jpg"
   },
   {
     "breed_group": "Terrier",
@@ -2235,7 +2235,7 @@
       "imperial": "8 - 25",
       "metric": "4 - 11"
     },
-    "url": "207.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/207.jpg"
   },
   {
     "bred_for": "Hunting raccoon, deer, bear, and cougar.",
@@ -2252,7 +2252,7 @@
       "imperial": "45 - 80",
       "metric": "20 - 36"
     },
-    "url": "208.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/208.jpg"
   },
   {
     "bred_for": "Big game hunting, guarding",
@@ -2269,7 +2269,7 @@
       "imperial": "75 - 80",
       "metric": "34 - 36"
     },
-    "url": "209.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/209.jpg"
   },
   {
     "bred_for": "Cattle drover, guardian, draft",
@@ -2286,7 +2286,7 @@
       "imperial": "75 - 110",
       "metric": "34 - 50"
     },
-    "url": "210.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/210.jpg"
   },
   {
     "breed_group": "Toy",
@@ -2301,7 +2301,7 @@
       "imperial": "3 - 6",
       "metric": "1 - 3"
     },
-    "url": "211.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/211.jpg"
   },
   {
     "bred_for": "Draft, search, rescue",
@@ -2318,7 +2318,7 @@
       "imperial": "130 - 180",
       "metric": "59 - 82"
     },
-    "url": "212.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/212.jpg"
   },
   {
     "bred_for": "Coursing gazelle and hare",
@@ -2335,7 +2335,7 @@
       "imperial": "35 - 65",
       "metric": "16 - 29"
     },
-    "url": "213.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/213.jpg"
   },
   {
     "bred_for": "Herding reindeer, guardian, draft",
@@ -2352,7 +2352,7 @@
       "imperial": "50 - 60",
       "metric": "23 - 27"
     },
-    "url": "214.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/214.jpg"
   },
   {
     "bred_for": "Barge watchdog",
@@ -2369,7 +2369,7 @@
       "imperial": "10 - 16",
       "metric": "5 - 7"
     },
-    "url": "216.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/216.jpg"
   },
   {
     "bred_for": "Coursing deer",
@@ -2386,7 +2386,7 @@
       "imperial": "70 - 130",
       "metric": "32 - 59"
     },
-    "url": "218.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/218.jpg"
   },
   {
     "bred_for": "Vermin hunting",
@@ -2403,7 +2403,7 @@
       "imperial": "18 - 22",
       "metric": "8 - 10"
     },
-    "url": "219.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/219.jpg"
   },
   {
     "bred_for": "Sheep herding",
@@ -2420,7 +2420,7 @@
       "imperial": "30",
       "metric": "14"
     },
-    "url": "221.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/221.jpg"
   },
   {
     "bred_for": "Hunting in the mountains of Japan, Alert Watchdog",
@@ -2437,7 +2437,7 @@
       "imperial": "17 - 23",
       "metric": "8 - 10"
     },
-    "url": "222.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/222.jpg"
   },
   {
     "bred_for": "Lapdog",
@@ -2454,7 +2454,7 @@
       "imperial": "9 - 16",
       "metric": "4 - 7"
     },
-    "url": "223.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/223.jpg"
   },
   {
     "bred_for": "Swimming, Carrying backpacks, Pulling carts or sleds",
@@ -2470,7 +2470,7 @@
       "imperial": "120 - 140",
       "metric": "54 - 64"
     },
-    "url": "225.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/225.jpg"
   },
   {
     "bred_for": "Sled pulling",
@@ -2487,7 +2487,7 @@
       "imperial": "35 - 60",
       "metric": "16 - 27"
     },
-    "url": "226.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/226.jpg"
   },
   {
     "bred_for": "Small vermin hunting, companionship",
@@ -2504,7 +2504,7 @@
       "imperial": "8 - 10",
       "metric": "4 - 5"
     },
-    "url": "228.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/228.jpg"
   },
   {
     "bred_for": "Fox bolting",
@@ -2521,7 +2521,7 @@
       "imperial": "up - 18",
       "metric": "NaN - 8"
     },
-    "url": "232.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/232.jpg"
   },
   {
     "bred_for": "Vermin hunting, guarding, all-around farm helper",
@@ -2538,7 +2538,7 @@
       "imperial": "30 - 40",
       "metric": "14 - 18"
     },
-    "url": "233.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/233.jpg"
   },
   {
     "bred_for": "Herding flocks of sheep and goats from one pasture to another",
@@ -2555,7 +2555,7 @@
       "imperial": "30 - 50",
       "metric": "14 - 23"
     },
-    "url": "235.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/235.jpg"
   },
   {
     "breed_group": "Sporting",
@@ -2571,7 +2571,7 @@
       "imperial": "61 - 85",
       "metric": "28 - 39"
     },
-    "url": "236.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/236.jpg"
   },
   {
     "bred_for": "",
@@ -2588,7 +2588,7 @@
       "imperial": "24 - 38",
       "metric": "11 - 17"
     },
-    "url": "238.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/238.jpg"
   },
   {
     "bred_for": "Ratting, guarding",
@@ -2605,7 +2605,7 @@
       "imperial": "30 - 50",
       "metric": "14 - 23"
     },
-    "url": "239.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/239.jpg"
   },
   {
     "breed_group": "Herding",
@@ -2621,7 +2621,7 @@
       "imperial": "20 - 30",
       "metric": "9 - 14"
     },
-    "url": "242.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/242.jpg"
   },
   {
     "breed_group": "Hound",
@@ -2637,7 +2637,7 @@
       "imperial": "35 - 55",
       "metric": "16 - 25"
     },
-    "url": "243.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/243.jpg"
   },
   {
     "breed_group": "Working",
@@ -2653,7 +2653,7 @@
       "imperial": "85 - 140",
       "metric": "39 - 64"
     },
-    "url": "244.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/244.jpg"
   },
   {
     "breed_group": "Non-Sporting",
@@ -2669,7 +2669,7 @@
       "imperial": "9 - 15",
       "metric": "4 - 7"
     },
-    "url": "245.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/245.jpg"
   },
   {
     "bred_for": "Good luck charms, mascots, watchdogs, herding dogs, and companions",
@@ -2686,7 +2686,7 @@
       "imperial": "20 - 24",
       "metric": "9 - 11"
     },
-    "url": "246.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/246.jpg"
   },
   {
     "breed_group": "Toy",
@@ -2702,7 +2702,7 @@
       "imperial": "4 - 9",
       "metric": "2 - 4"
     },
-    "url": "248.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/248.jpg"
   },
   {
     "breed_group": "Hound",
@@ -2718,7 +2718,7 @@
       "imperial": "45 - 80",
       "metric": "20 - 36"
     },
-    "url": "250.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/250.jpg"
   },
   {
     "bred_for": "Pointing and trailing",
@@ -2735,7 +2735,7 @@
       "imperial": "50 - 65",
       "metric": "23 - 29"
     },
-    "url": "251.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/251.jpg"
   },
   {
     "bred_for": "Large game trailing and versatile gundog",
@@ -2752,7 +2752,7 @@
       "imperial": "55 - 90",
       "metric": "25 - 41"
     },
-    "url": "253.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/253.jpg"
   },
   {
     "bred_for": "Flushing and retrieving birds",
@@ -2769,7 +2769,7 @@
       "imperial": "35 - 55",
       "metric": "16 - 25"
     },
-    "url": "254.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/254.jpg"
   },
   {
     "bred_for": "Fox, badger, vermin hunting",
@@ -2786,7 +2786,7 @@
       "imperial": "15 - 22",
       "metric": "7 - 10"
     },
-    "url": "256.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/256.jpg"
   },
   {
     "bred_for": "Coursing, racing",
@@ -2803,7 +2803,7 @@
       "imperial": "25 - 35",
       "metric": "11 - 16"
     },
-    "url": "257.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/257.jpg"
   },
   {
     "height": {
@@ -2818,7 +2818,7 @@
       "imperial": "60 - 85",
       "metric": "27 - 39"
     },
-    "url": "258.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/258.jpg"
   },
   {
     "bred_for": "Vermin hunting, fox bolting",
@@ -2835,7 +2835,7 @@
       "imperial": "15 - 19",
       "metric": "7 - 9"
     },
-    "url": "259.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/259.jpg"
   },
   {
     "bred_for": "Gundog, \"swamp-tromping\", Flushing, pointing, and retrieving water fowl & game birds",
@@ -2852,7 +2852,7 @@
       "imperial": "45 - 70",
       "metric": "20 - 32"
     },
-    "url": "260.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/260.jpg"
   },
   {
     "breed_group": "Sporting",
@@ -2867,7 +2867,7 @@
       "imperial": "45 - 65",
       "metric": "20 - 29"
     },
-    "url": "216.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/216.jpg"
   },
   {
     "breed_group": "Non-Sporting",
@@ -2883,7 +2883,7 @@
       "imperial": "9 - 31",
       "metric": "4 - 14"
     },
-    "url": "262.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/262.jpg"
   },
   {
     "bred_for": "Small vermin hunting",
@@ -2900,6 +2900,6 @@
       "imperial": "4 - 7",
       "metric": "2 - 3"
     },
-    "url": "264.jpg"
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/264.jpg"
   }
 ]
